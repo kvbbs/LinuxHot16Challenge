@@ -3,22 +3,22 @@
 
 # HOT 16
 
-# 1. komenda
+# 1. sudo
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 2. komenda
+# 2. cd
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 3. komenda
+# 3. ls
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 4. komenda
+# 4. nano
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 5. komenda
+# 5. touch
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 6. komenda
+# 6. ifconfig
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
 
 # 7. komenda
